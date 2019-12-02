@@ -2,21 +2,24 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}
+    <ul class="tag-box inline" style="float:right;font-size:0.875em">
+    {% capture tags %}
+      {% for tag in page.tags %}
+        {{ tag }}
+      {% endfor %}
+    {% endcapture %}
+    {% assign sortedtags = tags | split:' ' | sort %}
 
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    Публікація {{ page.date | date: "%d-%m-%Y" }}
-    <br>
-    Автор: {{ page.author }}
-  </div>
-
-  {% include disqus.html %}
-  
+    {% for tag in sortedtags %}
+      <li><a href="/tags#{{ tag | cgi_escape }}">{{ tag }}</a></li>
+    {% endfor %}
+    </ul>
+  </span>
+  {{ content }}
   <br>
   <a href="{{ site.baseurl }}/">Назад до блогу</a>
-</article>
+</div>
+  
