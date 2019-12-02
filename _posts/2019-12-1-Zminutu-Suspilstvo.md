@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Як ми можемо змінити життя суспільства?
-categories: social
+tags: social
 date: 2019-12-1
 author: Вероніка Станчик
 ---
