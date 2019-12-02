@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Інформація про мене
 permalink: /about/
 ---
 
-Some information about you!
+Мене звати Вероніка Станчик. Я студент-журналіст. 
 
-### More Information
+### Додаткова інформація
 
-A place to include any other types of information that you'd like to include about yourself.
+Мены подобається фотографувати, слухати молодіжну музику та читати цікаві книги. До зустрічі в моєму блозу! :) 
 
-### Contact me
+### Мої контакти
 
-[email@domain.com](mailto:email@domain.com)
+[nikalubimova263@gmail.com](mailto:nikalubimova263@gmail.com)
