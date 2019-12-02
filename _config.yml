@@ -53,7 +53,12 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /:categories/:title/
+
+paginate: 6
+paginate_path: 'page:num'
+
+future: false
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
