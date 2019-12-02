@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Як ми можемо змінити життя суспільства?
-date: 2019-12-1
+permalink: Zminutu-Suspilstvo/
 author: Вероніка Станчик
 tags: social
 ---
