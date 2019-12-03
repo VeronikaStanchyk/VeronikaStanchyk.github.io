@@ -23,4 +23,5 @@ tags: social
 Більш того, ми можемо увіковічити свої ідеї, написавши пісню, книгу або вірш. Творчість — це засіб для самовираження. Завдяки їй ми маємо змогу знайти однодумців і залишити глибокий слід у душі людини.
 
 
-<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v5.0"></script>
