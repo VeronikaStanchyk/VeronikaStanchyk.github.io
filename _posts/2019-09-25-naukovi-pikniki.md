@@ -12,7 +12,7 @@ tags: science
 
 Цього року захід вже втретє відбувається у нашому місті за підтримки управління у справах сім’ї, молоді та спорту міської ради, науково-методичного центру департаменту освіти міської ради. Про це повідомляє прес-служба Житомирської міської ради. Вхід на захід – вільний.
 
-![моя фоточка](https://raw.githubusercontent.com/SenkoTaras/senkotaras.github.io/master/images/photo_2019-12-02_13-27-45.jpg)
+![моя фоточка](https://raw.githubusercontent.com/VeronikaStanchyk/VeronikaStanchyk.github.io/blob/master/images/photo_2019-12-02_13-27-45.jpg)
 
 
 <div id="disqus_thread"></div>
