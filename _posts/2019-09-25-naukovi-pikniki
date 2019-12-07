@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Науковы пыкныкы
+permalink:  naukovi-pikniki
+author: Вероніка Станчик
+tags: science
+---
+
+Вже 20-го квітня у Житомирі відбудуться «ScientificFun – наукові пікніки в Україні». Початок заходу о 11 годині на вулиці Михайлівській.
+
+Проект стартував ще у 2016-му році в п’яти містах України: Київ, Львів, Тернопіль, Харків, Луганськ. Scientific Fun – це популяризація наук простим і водночас незвичним для нашого суспільства способом. Особливість Наукових пікніків полягає в тому, що відвідувачі не тільки побачать лабораторні досліди, але і втілять їх самі, дізнаються про незвичайні властивості речовин, які щодня використовують у побуті.
+
+Цього року захід вже втретє відбувається у нашому місті за підтримки управління у справах сім’ї, молоді та спорту міської ради, науково-методичного центру департаменту освіти міської ради. Про це повідомляє прес-служба Житомирської міської ради. Вхід на захід – вільний.
+
+![моя фоточка](https://raw.githubusercontent.com/SenkoTaras/senkotaras.github.io/master/images/photo_2019-12-02_13-27-45.jpg)
+
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://veronikastanchyk.github.io/naukovi-pikniki';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = ' naukovi-pikniki '; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-veronikastanchyk-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
