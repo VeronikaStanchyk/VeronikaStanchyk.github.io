@@ -3,7 +3,7 @@ layout: post
 title: А ти, випадково, не бот?
 permalink: vakcinaciya
 author: Вероніка Станчик
-tags: social Films
+tags: social heals
 excerpt_separator: <!--more-->
 ---
 
