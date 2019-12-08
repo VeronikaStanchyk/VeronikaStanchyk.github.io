@@ -16,3 +16,4 @@ permalink: /about/
 ### Мої контакти
 
 [nikalubimova263@gmail.com](mailto:nikalubimova263@gmail.com)
+[Інстаграм](https://www.instagram.com/hviitursal/)
