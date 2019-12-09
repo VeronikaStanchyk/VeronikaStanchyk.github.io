@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Пропаганда здорового глузду: вакцинація!
+title: "Пропаганда здорового глузду: вакцинація!"
 permalink: vakcinaciya
 author: Вероніка Станчик
 tags: social
