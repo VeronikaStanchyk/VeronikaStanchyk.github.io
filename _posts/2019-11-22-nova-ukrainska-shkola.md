@@ -2,7 +2,7 @@
 layout: post
 title: Нова українська школа. Що? Де? Навіщо?
 permalink: nova-ukrainska-shkola
-author: Вероніка Станчик <br> Юлія Зяткевич
+author: Вероніка Станчик и Юлія Зяткевич
 tags: social school
 excerpt_separator: <!--more-->
 ---
