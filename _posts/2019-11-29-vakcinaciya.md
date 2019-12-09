@@ -2,7 +2,7 @@
 layout: post
 title: ПРОПАГАНДА ЗДОРОВОГО ГЛУЗДУ: ВАКЦИНАЦІЯ.
 permalink: vakcinaciya
-author: Вероніка Станчик
+author: Вероніка Станчик и Юлія Зяткевич
 tags: social heals
 excerpt_separator: <!--more-->
 ---
