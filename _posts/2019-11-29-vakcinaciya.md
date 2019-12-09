@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Як ми можемо змінити життя суспільства?
+title: Пропаганда здорового глузду: вакцинація!
 permalink: vakcinaciya
 author: Вероніка Станчик
 tags: social
