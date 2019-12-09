@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ПРОПАГАНДА ЗДОРОВОГО ГЛУЗДУ: ВАКЦИНАЦІЯ.
+title: Пропаганда здорового глузду: вакцинація.
 permalink: vakcinaciya
 author: Вероніка Станчик и Юлія Зяткевич
 tags: social heals
